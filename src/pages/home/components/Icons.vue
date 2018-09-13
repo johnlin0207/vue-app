@@ -55,6 +55,7 @@ export default {
     height 0
     padding-bottom 50%
   .box
+    margin-top .2rem
     .icon
       width 25%
       padding-bottom 25% //定义基于父元素宽度的百分比下内边距
